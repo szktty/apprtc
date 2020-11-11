@@ -1,0 +1,21 @@
+PODS:
+  - SocketRocket (0.4.2)
+  - WebRTC (86.4240.1.2)
+
+DEPENDENCIES:
+  - SocketRocket (= 0.4.2)
+  - WebRTC (= 86.4240.1.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SocketRocket
+  https://github.com/shiguredo/sora-ios-sdk-specs.git:
+    - WebRTC
+
+SPEC CHECKSUMS:
+  SocketRocket: ffe08119b00ef982f6c37052a4705a057c8494ad
+  WebRTC: 5d6be27ac7c1f762c57bc1728f9f8d279274858f
+
+PODFILE CHECKSUM: 87ff23c866003887514ec8889bd026b346511046
+
+COCOAPODS: 1.9.3
